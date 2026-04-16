@@ -2,7 +2,7 @@
   <img src="assets/ssl-logo.png" alt="Smart Systems Lab Logo" width="140" />
 </p>
 
-<h1 align="center">Smart Systems Lab</h1>
+<h1 align="center">Smart Systems Engineering</h1>
 
 <p align="center">
   <strong>Biosystems Engineering Department • Auburn University</strong><br/>
