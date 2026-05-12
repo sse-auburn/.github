@@ -36,16 +36,18 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 - [Mohtasim Hadi Rafi](https://github.com/mohtasimhadi)  
 - [Faraz Ahmad](https://github.com/its-faraz)  
 - [Md Mesbahul Maruf](https://github.com/meshruf)  
-- Robert Louie Harris
 
 ## Current Undergraduate Students
-- Carter Freeman
+- [Rohan Afzal](https://github.com/rohaanafzal)
 
 ---
 
 ## Alumni
 ### MS Alumni
 - [Md Hasibur Rahman](https://github.com/hasiburniloy) — MS Graduate (now PhD)
+- Robert Louie Harris
+### Undergraduate Alumni
+- Carter Freeman
 ---
 
 ## Quick Links
