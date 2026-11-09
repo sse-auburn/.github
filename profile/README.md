@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://agsmartsystem.auburn.edu"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://shse.eng.auburn.edu"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:tur0001@auburn.edu"><img src="https://img.shields.io/badge/Email-PI-ef4444?logo=gmail&logoColor=white" alt="Email PI" /></a>
 </p>
 
