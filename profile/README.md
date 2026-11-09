@@ -26,16 +26,14 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 📧 [tur0001@auburn.edu](mailto:tur0001@auburn.edu)
 
 ---
+## Postdocs
+- [Hamid Habib Syed](https://github.com/HamidSyed298)
 
-## Current PhD Students
-- [Hamid Habib Syed](https://github.com/HamidSyed298)  
+## Current PhD Students  
 - [Mohammad Waseem](https://github.com/mzw0147)  
 - [Md Hasibur Rahman](https://github.com/hasiburniloy)
-
-## Current MS Students
 - [Mohtasim Hadi Rafi](https://github.com/mohtasimhadi)  
-- [Faraz Ahmad](https://github.com/its-faraz)  
-- [Md Mesbahul Maruf](https://github.com/meshruf)  
+- [Faraz Ahmad](https://github.com/its-faraz)    
 
 ## Current Undergraduate Students
 - [Rohan Afzal](https://github.com/rohaanafzal)
@@ -44,6 +42,9 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 
 ## Alumni
 ### MS Alumni
+- [Md Mesbahul Maruf](https://github.com/meshruf)
+- [Mohtasim Hadi Rafi](https://github.com/mohtasimhadi) — MS Graduate (now PhD)
+- [Faraz Ahmad](https://github.com/its-faraz) — MS Graduate (now PhD)
 - [Md Hasibur Rahman](https://github.com/hasiburniloy) — MS Graduate (now PhD)
 - Robert Louie Harris
 ### Undergraduate Alumni
@@ -51,7 +52,7 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 ---
 
 ## Quick Links
-- 🔗 Website: https://agsmartsystem.auburn.edu/
+- 🔗 Website: https://shse.eng.auburn.edu
 - 📫 Contact the PI: **[tur0001@auburn.edu](mailto:tur0001@auburn.edu)**
 
 ---
